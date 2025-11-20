@@ -2,6 +2,7 @@
   "name": "duaii",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@latest",
   "scripts": {
     "build": "next build",
     "build:analyze": "ANALYZE=true next build",
