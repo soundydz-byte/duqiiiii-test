@@ -7,6 +7,7 @@ const nextConfig = {
     unoptimized: false,
     domains: ['nbdytzfnzccwshagzpeu.supabase.co'],
   },
+  outputFileTracingRoot: process.cwd(),
 }
 
 export default nextConfig
